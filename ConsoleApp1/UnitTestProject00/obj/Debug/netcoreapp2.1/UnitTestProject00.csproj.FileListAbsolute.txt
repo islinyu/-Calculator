@@ -1,0 +1,17 @@
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.csprojAssemblyReference.cache
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.csproj.CoreCompileInputs.cache
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.AssemblyInfoInputs.cache
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.AssemblyInfo.cs
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\UnitTestProject00.deps.json
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\UnitTestProject00.runtimeconfig.json
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\UnitTestProject00.runtimeconfig.dev.json
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\UnitTestProject00.dll
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\UnitTestProject00.pdb
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\软工\ConsoleApp1\UnitTestProject00\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.csproj.CopyComplete
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.dll
+C:\软工\ConsoleApp1\UnitTestProject00\obj\Debug\netcoreapp2.1\UnitTestProject00.pdb
